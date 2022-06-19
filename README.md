@@ -10,4 +10,4 @@ This means that the maximum outage of 21 minutes and 54 seconds(monthly in sum) 
 Huge monitors were installed that should show:  
 •a green monitor in case everything looks fine and  
 •a red monitor in case of problems.  
-All monitors show the same content: a maximized website.  sdf
+All monitors show the same content: a maximized website.  
